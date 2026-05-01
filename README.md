@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Proflocke2/MultiDiscordBotV1/main/banner.png" width="120" style="border-radius: 50%"/>
 
-# Luka — Proflocke2
+# Luka aka Proflocke2
 
 **Discord Bot Developer**
 
