@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-Hey, I'm **Luka** — a self-taught developer passionate about building Discord bots and automation tools.
+Hey, I'm **Luka**, 16 and a self-taught developer passionate about building Discord bots and automation tools.
 
 - 🤖 Focused on **Discord Bot Development** with TypeScript & discord.js
 - 🗄️ Working with **SQLite** for persistent bot data
@@ -51,17 +51,6 @@ Hey, I'm **Luka** — a self-taught developer passionate about building Discord 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Proflocke2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Proflocke2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Proflocke2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2)
-
-</div>
-
----
 
 <div align="center">
 
